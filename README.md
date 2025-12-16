@@ -1,4 +1,6 @@
 Contributors: Aakash Sridhar,  Adarsh Prasana, Aarya Galebi, Abjeet Dinesh.
+ 
+          
 Ouput screen shots
 
 ![Number guessing game ](https://github.com/user-attachments/assets/9892f2af-3205-4a11-b7de-f8a11e09dae2)
