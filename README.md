@@ -1,5 +1,5 @@
 Contributors:
-Aakash Sridhar 
-Adarsh Prasana
-Aarya Galebi 
-Abjeet Dinesh
+Aakash Sridhar,  
+Adarsh Prasana, 
+Aarya Galebi, 
+Abjeet Dinesh.
