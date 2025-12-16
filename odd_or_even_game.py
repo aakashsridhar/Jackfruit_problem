@@ -10,11 +10,10 @@ Features in this updated version:
 - Two innings match: first innings sets a target, second innings chases and can finish early when target is passed.
 
 How to use:
-- Run the file: `python hand_cricket_live.py`
-- Enter numbers 1-6 when prompted.
 
-Copy this file into `hand_cricket_live.py` and run it.
-"""
+- Enter numbers 1-6 when prompted."""
+
+
 
 import random
 import sys
@@ -213,3 +212,4 @@ if __name__ == '__main__':
     except (KeyboardInterrupt, EOFError):
         print("\nGame interrupted. Bye!")
         sys.exit(0)
+
