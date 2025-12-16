@@ -21,6 +21,7 @@ def main():
         if choice == "1":
             print("\nLaunching Number Guessing Game...\n")
             import number_guessing_game
+            number_guessing_game.main()
             
 
         elif choice == "2":
